@@ -1,0 +1,36 @@
+.btn-add{
+    margin-bottom: 25px;
+}
+.table-list{
+    table-layout: fixed;
+}
+.table-list th{
+    text-align: center;
+}
+.table-list input{
+display: none;       
+}
+.table-list span{
+    display: inline-block;
+}
+.edit span{
+display: none;       
+}
+.edit input{
+display: inline-block;       
+}
+ .btn-edit,.btn-del{
+    display: inline-block;  
+ }
+ .btn-ok,.btn-cancle{
+    display: none;  
+ }
+.edit .btn-edit,.edit .btn-del{
+    display: none;
+}
+.edit .btn-ok,.edit .btn-cancle{
+    display: inline-block;
+}
+.hidden{
+	display: none;
+}

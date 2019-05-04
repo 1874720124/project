@@ -1,0 +1,13 @@
+.form-container{
+    width: 500px;
+    margin: 0 auto;
+    padding-top: 50px;
+
+}
+.form-container h1{
+    text-align: center;
+    margin-bottom: 35px;
+}
+.form-container .form-message{
+    margin-left: 20px;
+}
